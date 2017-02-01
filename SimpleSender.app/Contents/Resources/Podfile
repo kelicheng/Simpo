@@ -6,7 +6,6 @@ target 'SimpleSender' do
   use_frameworks!
   pod 'OAuthSwift', '~> 1.1.0'
   pod 'Prephirences/Cocoa'
-  pod 'SYFlatButton'
   pod 'SwiftyJSON'
 
   # Pods for SimpleSender

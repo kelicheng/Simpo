@@ -1,5 +1,5 @@
 ## SimpleSender
-一款快速发布文字和图片到社交网站的macOS菜单栏App，目前支持饭否多账户登录。
+一款快速发布文字和图片到社交网站的macOS菜单栏App，目前支持饭否/Twitter多账户登录。
 
 ![](https://github.com/KeliCheng/SimpleSender/blob/master/Screen%20Shot%202017-01-27%20at%2022.06.51.png?raw=true)
 
@@ -11,5 +11,6 @@
 
 ### Version
 v 1.0.0: 支持饭否多账户登录，可以发送图片和文字。可以自定义字体及背景颜色，管理草稿。
+v 1.0.1: 支持Twitter登录
 
 
