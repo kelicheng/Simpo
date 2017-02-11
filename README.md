@@ -5,7 +5,7 @@
 
 ### tips
 - 打开App如果出现提示为未认证作者：
-	打开System Preference系统设置 --> Security & Privacy 安全和隐私 --> 点击左下角小锁 --> 
+	打开System Preference系统设置 --> Security & Privacy 安全和隐私 --> General --> 点击左下角小锁 --> 
 	看是否出现 Open Simpo Anyway, 如果没有，尝试关闭之前出现的提示； 如果有，点击Open Anyway，再重启App
 
 - Twitter／微博登录没有反应：打开浏览器重试
@@ -36,7 +36,7 @@ v 1.0.2: 支持微博登录
 A macOS menubar application to post status to social networks. Supporting Fanfou, Twitter, and Weibo. 
 
 ### tips: 
-- in case of showing "not identified developer" alert: close the alert, go to System Preference --> Security & Privacy --> Open Simpo Anyway 
+- in case of showing "unidentified developer" alert: close the alert, go to System Preference --> Security & Privacy --> General --> Open Simpo Anyway 
 
 - if login with Twitter/Weibo account is not responding: open the browser and try again 
 
