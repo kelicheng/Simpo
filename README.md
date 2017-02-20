@@ -1,7 +1,7 @@
 ## Simpo
 一款快速发布文字和图片到社交网站的macOS菜单栏App，目前支持饭否/Twitter/微博多账户登录。
 
-![](https://github.com/KeliCheng/Simpo/blob/master/Screen%20Shot%202017-01-27%20at%2022.06.51.png?raw=true)
+![](https://github.com/KeliCheng/Simpo/blob/master/ScreenShot.png)
 
 ### tips
 - 打开App如果出现提示为未认证作者：
