@@ -1,5 +1,5 @@
 ## Simpo
-一款快速发布文字和图片到社交网站的macOS菜单栏App，目前支持饭否/Twitter/微博多账户登录。
+一款快速发布文字和图片到社交网站的macOS菜单栏App，目前支持饭否/Twitter/微博多账户登录以及一键发送到多个账户。
 
 ![](https://github.com/KeliCheng/Simpo/blob/master/preview.png)
 
@@ -12,7 +12,7 @@
 
 - 打开设置（添加账户）／退出：右键点击菜单栏图标
 
-- 切换账户：点击左上角头像；按住command键选择多个账户。
+- 切换账户：点击左上角头像；按住 Command ⌘ 键选择多个账户
 
 - 查看／删除最近消息：输入“/rm” + 空格，显示最近5-10条消息（由于网络等原因可能会有延迟），选中消息后点击发送按钮删除。
 
@@ -29,22 +29,19 @@ v 1.1.0: 全新UI，更多自定义选项，新增字体、歌词显示等。
 v 1.2.0: 支持一键发送到多个账户；支持查看最近消息以及删除。[Beta]
 
 ### TODO
-~~- fix bug：Twitter／微博授权后有两个程序被打开~~
 - fix bug: 上传GIF图问题
-~~- - 一键发送到多个账户~~- 
 - Emoji & Location
 - 回复消息
-~~- - 删除消息~~- 
 - 消息通知
 - 微博九图上传
 
 ### Contact
-意见建议或bug反馈，请联系微博：[@水云青鹤](http://weibo.com/shuiyunqinghe)
+意见建议或bug反馈，请发起issue或联系微博：[@水云青鹤](http://weibo.com/shuiyunqinghe)
 
 ----------
 
 ## Simpo
-A macOS menubar application to post status to social networks. Supporting Fanfou, Twitter, and Weibo. 
+A macOS menubar application to post status to social networks. Supporting Fanfou, Twitter, and Weibo accounts. 
 
 ### tips: 
 - in case of showing "unidentified developer" alert: close the alert, go to System Preference --> Security & Privacy --> General --> Open Simpo Anyway 
@@ -53,6 +50,11 @@ A macOS menubar application to post status to social networks. Supporting Fanfou
 
 - right-click on the menubar icon to open preference (customize background color, font, and manage accounts and drafts) or quit 
 
-- click the profile image to switch account 
+- click the profile image to switch account; press cmd to select multiple accounts. 
+
+- type "/rm" + space to load recent statuses; select a status and push the send button to delete that status. 
+
+### contact: 
+ikcheng322@gmail.com
 
 
