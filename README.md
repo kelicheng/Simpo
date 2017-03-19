@@ -14,11 +14,15 @@
 
 - 切换账户：点击左上角头像；按住 Command ⌘ 键选择多个账户
 
-- 查看／删除最近消息：输入“/rm” + 空格，显示最近5-10条消息（由于网络等原因可能会有延迟），选中消息后点击发送按钮删除。
+- 查看／删除最近消息：输入“/rm” + 空格，显示最近5-20条消息（由于网络等原因可能会有延迟），选中消息后发送删除。
+
+- 查看／转发提到自己的消息：输入“/rt” + 空格，显示最近提到自己的消息（由于网络等原因可能会有延迟）
 
 - Twitter／微博授权后有两个程序被打开：将两个程序都关闭后重启Simpo，或尝试使用Chrome等作为默认浏览器
 
 - 饭否登录：请使用ID或注册邮箱登录。例：饭否主页为 fanfou.com/~example, 则ID为“～example”
+
+- 快捷键：⌘`  切换账户，⌘E 插入颜文字，⌘Enter 发送，
 
 
 ### Version
@@ -26,12 +30,11 @@ v 1.0.0: 支持饭否多账户登录，可以发送图片和文字。可以自�
 v 1.0.1: 支持Twitter登录
 v 1.0.2: 支持微博登录
 v 1.1.0: 全新UI，更多自定义选项，新增字体、歌词显示等。
-v 1.2.0: 支持一键发送到多个账户；支持查看最近消息以及删除。[Beta]
+v 1.2.0: 支持一键发送到多个账户；支持查看最近消息以及删除。
+v 1.2.1: 支持添加位置、自带Emoji&颜文字；支持查看最近20条提到自己的消息。
 
 ### TODO
 - fix bug: 上传GIF图问题
-- Emoji & Location
-- 回复消息
 - 消息通知
 - 微博九图上传
 
@@ -43,6 +46,11 @@ v 1.2.0: 支持一键发送到多个账户；支持查看最近消息以及删�
 ## Simpo
 A macOS menubar application to post status to social networks. Supporting Fanfou, Twitter, and Weibo accounts. 
 
+## Features
+- Support posting statuses to multiple accounts at one time 
+- Customized Font, background color, and style etc. 
+- Load recent statuses and mentions, easy to delete and repost 
+
 ### tips: 
 - in case of showing "unidentified developer" alert: close the alert, go to System Preference --> Security & Privacy --> General --> Open Simpo Anyway 
 
@@ -53,6 +61,8 @@ A macOS menubar application to post status to social networks. Supporting Fanfou
 - click the profile image to switch account; press cmd to select multiple accounts. 
 
 - type "/rm" + space to load recent statuses; select a status and push the send button to delete that status. 
+
+- type "/rt" + space to load mentions and reply. 
 
 ### contact: 
 ikcheng322@gmail.com

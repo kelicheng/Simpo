@@ -64,6 +64,10 @@
 	</dict>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2017 Keli Cheng. All rights reserved.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>App needs Location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>App needs Location</string>
 	<key>NSMainStoryboardFile</key>
 	<string>Main</string>
 	<key>NSPrincipalClass</key>
