@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		I2nMPhQdbiLtZ24l2wbbVF9K6mI=
+		WnqGepH2KZ4n2zFPvx3Rf7jLC5c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,11 +15,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VkOQjKvT7ujDp0jNzNjhgT2fqWA=
+			jcvTIZi6AargJ5KyxuFwAH8Vwvk=
 			</data>
 			<key>hash2</key>
 			<data>
-			DXcXW6PQ91TEaQcK7P8WNF/UCREI6nYgY0M5w5EqBYE=
+			D+PPJYxOyoUZnAtJu46n4BWCoI3+USR3Kf4z11/Es8Q=
 			</data>
 		</dict>
 		<key>Headers/OAuthSwift-umbrella.h</key>
@@ -37,22 +37,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9T2NVnj0msqE3A399IzEpWBfwJs=
+			pXq8lOiG04j4sZWwVGrazWrudSo=
 			</data>
 			<key>hash2</key>
 			<data>
-			CQcTPY1Jfz20/oftpuTgRzAMOxkfx8OXZnBvEymmXNY=
+			s25ECjh0FNqqii1rbLusx1sswIiKN9d8qUka6VEXLas=
 			</data>
 		</dict>
 		<key>Modules/OAuthSwift.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w96eDKg0g7TcqUIkwMaMAxqMBD8=
+			qBqwbF0s3RUPPywU02/hqkWjBsk=
 			</data>
 			<key>hash2</key>
 			<data>
-			u+ZI6cjCOPEXIfsFDPEGWUfS0CNIbIIHTRub4Hh1TgE=
+			mWe3XHljbn+H6doAzTeyZlknf+kwN/C46I/FJxMjq3g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -70,11 +70,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I2nMPhQdbiLtZ24l2wbbVF9K6mI=
+			WnqGepH2KZ4n2zFPvx3Rf7jLC5c=
 			</data>
 			<key>hash2</key>
 			<data>
-			hpolKjX9qyk+od4tZX07XKUQgqz9XjjyJriO4MLE/J4=
+			N4V3ZHazG8aXLBJElJq+u9dPRjt4lrVWriJGZ0HeGwU=
 			</data>
 		</dict>
 	</dict>
