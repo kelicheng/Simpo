@@ -1,5 +1,5 @@
 ## Simpo
-一款快速发布文字和图片到社交网站的macOS菜单栏App，目前支持饭否/Twitter/微博多账户登录以及一键发送到多个账户。
+一款快速发布文字和图片到社交网站的macOS菜单栏App，目前支持饭否/Twitter/微博多账户登录、一键发送到多个账户、查看最近消息及通知。
 
 ![](https://github.com/KeliCheng/Simpo/blob/master/preview.png)
 
@@ -14,17 +14,13 @@
 
 - 切换账户：点击左上角头像；按住 Command ⌘ 键选择多个账户
 
-- 查看／删除最近消息：输入“/rm” + 空格，显示最近5-20条消息（由于网络等原因可能会有延迟），选中消息后发送删除。
-
-- 查看／转发提到自己的消息：输入“/rt” + 空格，显示最近提到自己的消息（由于网络等原因可能会有延迟）
-
 - Twitter／微博授权后有两个程序被打开：将两个程序都关闭后重启Simpo，或尝试使用Chrome等作为默认浏览器
 
 - 饭否登录：请使用ID或注册邮箱登录。例：饭否主页为 fanfou.com/~example, 则ID为“～example”
 
 - 快捷键：⌘`  切换账户，⌘E 插入颜文字，⌘Enter 发送
 
-- 由于微博API限制，现在发送微博和图片会自带一条weibo.com的链接，并且无法插入话题。查看最近消息功能暂无法使用。
+- 由于微博API限制，现在发送微博和图片会自带一条weibo.com的链接，并且无法插入话题。暂不建议使用。
 
 
 ### Version
@@ -36,9 +32,10 @@ v 1.2.0: 支持一键发送到多个账户；支持查看最近消息以及删�
 v 1.2.1: 支持添加位置、自带Emoji&颜文字；支持查看最近20条提到自己的消息。
 
 ### TODO
+- 长文字生成图片
 - fix bug: 上传GIF图问题
-- 消息通知
-- 微博九图上传
+~~- 消息通知~~
+
 
 ### Contact
 意见建议或bug反馈，请发起issue或联系微博：[@水云青鹤](http://weibo.com/shuiyunqinghe)
@@ -61,10 +58,6 @@ A macOS menubar application to post status to social networks. Supporting Fanfou
 - right-click on the menubar icon to open preference (customize background color, font, and manage accounts and drafts) or quit 
 
 - click the profile image to switch account; press cmd to select multiple accounts. 
-
-- type "/rm" + space to load recent statuses; select a status and push the send button to delete that status. 
-
-- type "/rt" + space to load mentions and reply. 
 
 ### contact: 
 ikcheng322@gmail.com
