@@ -39,7 +39,7 @@ v 1.2.1: 支持添加位置、自带Emoji&颜文字；支持查看最近20条提
 
 ### Contact
 意见建议或bug反馈，请发起issue或联系微博：[@水云青鹤](http://weibo.com/shuiyunqinghe)
-![](https://github.com/KeliCheng/Simpo/blob/master/donate.png)
+![](https://github.com/KeliCheng/Simpo/blob/master/donate.png =500x679)
 
 ----------
 
