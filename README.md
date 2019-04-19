@@ -1,4 +1,26 @@
 ## Simpo
+A macOS menubar application to post status to social networks. Supporting Fanfou, Twitter, and Weibo accounts. 
+
+## Features
+- Support posting statuses to multiple accounts at one time 
+- Customized Font, background color, and style etc. 
+- Load recent statuses and mentions, easy to delete and repost 
+
+### tips: 
+- in case of showing "unidentified developer" alert: close the alert, go to System Preference --> Security & Privacy --> General --> Open Simpo Anyway 
+
+- if login with Twitter/Weibo account is not responding: open the browser and try again 
+
+- right-click on the menubar icon to open preference (customize background color, font, and manage accounts and drafts) or quit 
+
+- click the profile image to switch account; press cmd to select multiple accounts. 
+
+### contact: 
+kelicheng19@gmail.com
+
+----------
+
+## Simpo
 一款快速发布文字和图片到社交网站的macOS菜单栏App，目前支持饭否/Twitter/微博多账户登录、一键发送到多个账户、查看最近消息及通知。
 
 ![](https://github.com/KeliCheng/Simpo/blob/master/preview.png)
@@ -37,32 +59,8 @@ v 1.2.1: 支持添加位置、自带Emoji&颜文字；支持查看最近20条提
 ~~- 消息通知~~
 
 
-### Contact
-意见建议或bug反馈，请发起issue或联系微博：[@水云青鹤](http://weibo.com/shuiyunqinghe)
-<!--![](https://github.com/KeliCheng/Simpo/blob/master/donate.png)-->
-<img src="https://github.com/KeliCheng/Simpo/blob/master/donate.png" width="500">
 
 
-----------
 
-## Simpo
-A macOS menubar application to post status to social networks. Supporting Fanfou, Twitter, and Weibo accounts. 
-
-## Features
-- Support posting statuses to multiple accounts at one time 
-- Customized Font, background color, and style etc. 
-- Load recent statuses and mentions, easy to delete and repost 
-
-### tips: 
-- in case of showing "unidentified developer" alert: close the alert, go to System Preference --> Security & Privacy --> General --> Open Simpo Anyway 
-
-- if login with Twitter/Weibo account is not responding: open the browser and try again 
-
-- right-click on the menubar icon to open preference (customize background color, font, and manage accounts and drafts) or quit 
-
-- click the profile image to switch account; press cmd to select multiple accounts. 
-
-### contact: 
-ikcheng322@gmail.com
 
 
