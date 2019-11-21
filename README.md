@@ -1,6 +1,8 @@
 ## Simpo
 A macOS menubar application to post status to social networks. Supporting Fanfou, Twitter, and Weibo accounts. 
 
+![](https://github.com/KeliCheng/Simpo/blob/master/preview.png)
+
 ## Features
 - Support posting statuses to multiple accounts at one time 
 - Customized Font, background color, and style etc. 
@@ -22,8 +24,6 @@ kelicheng19@gmail.com
 
 ## Simpo
 一款快速发布文字和图片到社交网站的macOS菜单栏App，目前支持饭否/Twitter/微博多账户登录、一键发送到多个账户、查看最近消息及通知。
-
-![](https://github.com/KeliCheng/Simpo/blob/master/preview.png)
 
 ### tips
 - 打开App如果出现提示为未认证作者：
